@@ -1,5 +1,5 @@
 public class addtwo{
-public static void main (sString[] args){
+public static void main (String[] args){
 	if(args.length<2){
 		Syestem.out.println("Please provide two numbers as arguments");
 		return;
