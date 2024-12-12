@@ -1,7 +1,7 @@
 public class addtwo{
 public static void main (String[] args){
 	if(args.length<2){
-		Syestem.out.println("Please provide two numbers as arguments");
+		System.out.println("Please provide two numbers as arguments");
 		return;
 	}
 	//parse the numbers fromcommand -line arguments
